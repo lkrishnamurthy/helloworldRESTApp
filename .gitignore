@@ -1,0 +1,7 @@
+target/
+*.class
+*.war
+.settings/*
+*.class
+.factorypath
+*.prefs
